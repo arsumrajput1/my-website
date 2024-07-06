@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+#myLabel {
+    font-size: 50px;
+    font-family:Helvetica;
+}
+button {
+    margin: 10px;
+}
